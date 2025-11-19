@@ -24,7 +24,7 @@ Here are some of the projects I’m currently working on or have worked on:
 - **Puzzle Adventure Game** – Shrines with major/minor puzzles, environmental storytelling  
 - **Combat System Demo** – Melee and ranged combat mechanics with animation integration  
 
-*(Projects are under development and some are private)*
+
 
 
  📫 Contact
